@@ -1,0 +1,14 @@
+.bistrobg {
+  background-image: url("../../../src/assets/home/chef-service.jpg");
+  height: 572px;
+}
+
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  color: gold;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  color: gold;
+}
